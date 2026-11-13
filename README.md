@@ -1,30 +1,44 @@
-🌌 AFTERTHEEND
 
-The World Has Fallen. The Machines Remain.
+# AFTERTHEEND
 
-AFTERTHEEND is a realistic 3D open-world survival action game set in a post-apocalyptic world ruled by robots.
+A 3D open-world survival game project.
 
-🤖 Features
+## Current Development Stage
 
-- 🌍 Open-world exploration
-- 🎮 Third-person gameplay
-- 🏙️ Realistic post-apocalyptic environment
-- 🤖 Robot enemies and AI
-- 📱 Android support planned
-- 💻 Windows PC support planned
+Main Interface Prototype.
 
-🛠️ Built With
+## Current Features
 
-- Godot Engine 4
+- Cinematic intro screen
+- Animated game title
+- Loading progress bar
+- Fade transition
+- 3D lobby environment
+- Rotating placeholder character
+- Main lobby interface
+
+## Development Tools
+
+- Godot 4
 - GDScript
-- Blender
+- GitHub
 
-🚧 Development Status: Early Development
+## Planned Development
 
-Survive the ruins. Face the machines. Discover what remains.
+- Character customization
+- 3D character models
+- Game world
+- Survival gameplay
+- Robot AI
+- Android optimization
+- Windows support
 
----
+## Project Structure
 
-⭐ Follow the project and stay tuned for updates!
+- scenes: Godot scenes
+- scripts: GDScript files
+- assets: Models, materials and audio
 
-Developer: PritamYt, VISHESHGAMER
+## Status
+
+Early Development.
