@@ -27,4 +27,4 @@ Survive the ruins. Face the machines. Discover what remains.
 
 ⭐ Follow the project and stay tuned for updates!
 
-Developer: PritamYt, VisheshGamer
+Developer: PritamYt, VISHESHGAMER
